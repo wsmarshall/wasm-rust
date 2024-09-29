@@ -19,6 +19,9 @@
 
 ## About
 
+A toy example for getting a WebAssembly program up and running, illustrates how WASM works with JS. 
+Uses WASM, npm, and auto generated templates. JS calls WASM, then WASM uses JS web API for didactic purposes.
+
 [**📚 Read this template tutorial! 📚**][template-docs]
 
 This template is designed for compiling Rust libraries into WebAssembly and
